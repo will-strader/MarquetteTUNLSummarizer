@@ -25,10 +25,11 @@ This web-based tool allows researchers to upload TUNL test data from CSV or Exce
 This will open the useable app in your browser at http://localhost:8501.
 
 ## Deploying for Others (No Coding Needed)
-	1.	Push this repo to GitHub
-	2.	Go to Streamlit Cloud and sign in with GitHub
-	3.	Click “New App” and select your repository and webapp.py as the app file
-	4.	Click “Deploy” — Streamlit will host it and give you a shareable link
+
+1. Push this repo to GitHub
+2. Go to Streamlit Cloud and sign in with GitHub
+3. Click “New App” and select your repository and webapp.py as the app file
+4. Click “Deploy” — Streamlit will host it and give you a shareable link
 
  *Make sure your requirements include: pandas, streamlit, openpxyl*
  (Optional requirement if you need to support GUI: wxPython)
