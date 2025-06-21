@@ -13,8 +13,8 @@ This web-based tool allows researchers to upload TUNL test data from CSV or Exce
 ## Running Locally
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/jxiulu/TUNLTestProgram.git
+   cd TUNLTestProgram
 
 2. Install Requirements
    pip install -r requirements.txt
